@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import scrollphat
 import random
 import time
