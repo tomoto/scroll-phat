@@ -9,7 +9,7 @@ if len(sys.argv) != 2:
     sys.exit(0)
 
 scrollphat.set_rotate(True)
-scrollphat.write_string(sys.argv[1] + "   ")
+scrollphat.write_string("    " + sys.argv[1])
 
 while True:
     try:
